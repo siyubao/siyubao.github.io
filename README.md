@@ -1,5 +1,4 @@
-# Claire Bao
-## A data enthusiast hoping to make a difference
+
 
 
 
