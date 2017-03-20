@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
-name: Claire Bao, Data Analyst
+name: Claire Bao
 markdown: kramdown
 permalink: /updates/:year/:month/:day/:title
